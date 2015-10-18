@@ -13,4 +13,5 @@ Mentors please enter your details in the following table:
 | avinassh  | Python    | Anytime           | Bangalore | Yes                   |
 | anirudhvarma12         |  Java         |  Anytime(except fridays)                 | Delhi          | yes                     |
 | sathyabhat| SQL/Python| Anytime           | Bangalore | Yes                   |
+| rhnvrm    | Python/C++| Anytime           | Delhi     | Yes                   |
 |            |          |                   |           |                       |
