@@ -11,6 +11,14 @@ Thank you for being a mentor. Here are the guidelines:
 
 ## How to join
 
+1. Decide which programming language or topic you want to teach 
+2. Check if curriculum already exists in `curriculum` directory
+3. If not, come up with your own curriculum. Basic guidelines are outlined [here](curriculum/readme.md)
+4. Check [projects](projects.md) and see if already existing projects can be done with the language you are teaching A project `A` in `x` language may be difficult to implement than in `y` language for a beginner, make sure you consider this.
+5. If not, come up with your own project
+
+**Note**: If there are no projects and curriculum for your topic/language, then you cannot be added to mentors list.
+
 Send a PR to [this](mentors-list.md) page and add yourself. You should include following info:
 
 - your slack username or your Reddit ID
