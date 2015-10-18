@@ -33,17 +33,17 @@ At minimum, you are expected to teach following:
 
 And a basic project at the end. Suggested projects are mentioned [here](projects.md). If you want to teach some different project, then please send a PR to add your project.
 
-# Teaching materials
+## Teaching materials
 
 Please check the `curriculum` directory. If the language you want to teach is missing, then you have to come up with a plan and submit a PR. Without this, you cannot be added to `mentors-list` page.
 
-# Curriculum
+## Curriculum
 
 All the curriculum are present in `curriculum` directory. If you want to add a new language, it should have following:
 
 1. A very basic course, which just gives intro to the subject. Interactive courses are better. For example, Code Academy has couple of courses which are intended for beginners.
 2. An elaborate course which covers all the topics mentioned in `What to teach`. It is okay if you cannot find #1 for your language of choice, but this #2 is absolutely required since mentee is expected to follow this and learn.
-3. A beginner level book for mentee to follow. Check `curriculum/books` section. 
+3. A beginner level book for mentee to follow.
 
 You are free to include youtube playlists, udacity/coursera courses etc. 
 
