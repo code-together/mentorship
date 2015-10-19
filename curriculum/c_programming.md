@@ -6,7 +6,7 @@
 
 ##Curriculum
 
-1. #### Introduction
+#### 1. Introduction
 	- History of C
 	- Advantages and disadvantages of C
 	- C standards
