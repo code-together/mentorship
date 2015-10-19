@@ -4,6 +4,8 @@
 
 1. Basic knowledge of Binary Number System and Binary logic.
 
+##[Interactive C tutorial](http://www.learn-c.org/)
+
 ##Curriculum
 
 1. Introduction
@@ -46,5 +48,6 @@
   		+ main() function and command line arguments
   		+ user defined functions
   		+ return statement
+  		+ recursion
   3. Intermediate C
   4. Advanced C
