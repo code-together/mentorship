@@ -23,14 +23,16 @@ None
   		- Typecasting
   	- Operators
 	 	- Addition & Subraction
-    		- Multiplication & Division
-    		- Post/Pre increment & decrement operators
-    		- Left and Right shift operators
-		- Comparison operators
-    		- Other special operators
+	 	- Multiplication & Division
+	 	- Bitwise AND,OR and XOR operators
+	 	- Post/Pre increment & decrement operators
+	 	- Left and Right shift operators
+	 	- Comparison operators
+	 	- Other special operators
 	- Control statements
-    		- if, if/else, if/else if/else
+    		- if, if/else, if/else-if/else
     		- switch
+    		- Ternary operator
   	- Loops
   		- for
   		- while
