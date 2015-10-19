@@ -24,15 +24,15 @@ None
   	- Operators
 	 	- Addition & Subraction
 	 	- Multiplication & Division
-	 	- Bitwise AND,OR and XOR operators
+	 	- Bitwise AND,OR and XOR
 	 	- Post/Pre increment & decrement operators
-	 	- Left and Right shift operators
+	 	- Left and Right shift
 	 	- Comparison operators
 	 	- Other special operators
 	- Control statements
-    		- if, if/else, if/else-if/else
-    		- switch
-    		- Ternary operator
+		- if, if/else, if/else-if/else
+		- switch
+		- ternary operator
   	- Loops
   		- for
   		- while
