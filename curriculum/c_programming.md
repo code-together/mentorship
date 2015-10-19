@@ -16,6 +16,8 @@
   	- Installation of other tools(gdb,valgrind & make)
 2. Basic C
 	- Hello world and command line input/output
+	- C Keywords
+	- Preprocessor
   	- Variables
   		+ C89 datatypes
   		+ Pitfalls of using C89 datatypes
@@ -37,6 +39,8 @@
   		+ for
   		+ while
   		+ do-while
+  		+ break & continue
+  		+ goto
   	- Functions
   		+ Definition
   		+ main() function and command line arguments
