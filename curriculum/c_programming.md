@@ -14,10 +14,11 @@
 	- C standards
 	- Linux installation
 	- Using the command line
-  	- Installation of compilers(GCC/clang)
+  	- Installation of compilers(GCC/LLVM clang)
   	- Installation of other tools(gdb,valgrind & make)
 2. Basic C
 	- Hello world and command line input/output
+	- Structure of a typical C program
 	- C Keywords
 	- Preprocessor
   	- Variables
@@ -49,5 +50,28 @@
   		+ user defined functions
   		+ return statement
   		+ recursion
-  3. Intermediate C
-  4. Advanced C
+2. Intermediate C
+	- Arrays and Pointers
+	- Strings
+	- Dynamic memory allocation
+		+ Stack and Heap
+		+ malloc() and calloc()
+		+ free() and realloc()
+		+ Pitfalls
+		+ Debugging memory programs with valgrind
+	- Structures and Unions
+	- File handling
+		+ fopen() & fclose() and file modes
+		+ fgetc() & fputc()
+		+ fread() & fwrite()
+		+ ftell() & fseek()
+3. Advanced C
+	- Multithreading
+		+ What is multithreading?
+		+ Advantages and disadvantages
+		+ C multithreading using 
+ 
+Books
+	- Linux programmers manual
+	- C Programming Language (2nd Edition By B. W. Kernighan & D. M. Ritchie)
+	- 
