@@ -69,7 +69,7 @@
 	- Multithreading
 		+ What is multithreading?
 		+ Advantages and disadvantages
-		+ C multithreading using 
+		+ C multithreading using POSIX threading API
  
 Books
 	- Linux programmers manual
