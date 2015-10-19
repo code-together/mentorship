@@ -17,9 +17,7 @@ None
 2. Basic C
 	- Hello world and command line input/output
   	- Variables
-    		+ C89 data types
-    		+ Pitfalls of C89 data types
-    		+ C99 data types
+  		- C89 Data types
   	- Operators
 	 	- Addition & Subraction
     		- Multiplication & Division
