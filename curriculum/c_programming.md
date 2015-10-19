@@ -6,7 +6,7 @@
 
 ##Curriculum
 
-1. Introduction
+1. #### Introduction
 	- History of C
 	- Advantages and disadvantages of C
 	- C standards
@@ -17,26 +17,26 @@
 2. Basic C
 	- Hello world and command line input/output
   	- Variables
-  		- C89 datatypes
-  		- Pitfalls of using C89 datatypes
-  		- C99 datatypes
-  		- Typecasting
+  		+ C89 datatypes
+  		+ Pitfalls of using C89 datatypes
+  		+ C99 datatypes
+  		+ Typecasting
   	- Operators
-	 	- Addition & Subraction
-	 	- Multiplication & Division
-	 	- Bitwise AND,OR and XOR
-	 	- Post/Pre increment & decrement operators
-	 	- Left and Right shift
-	 	- Comparison operators
-	 	- Other special operators
+	 	+ Addition & Subraction
+	 	+ Multiplication & Division
+	 	+ Bitwise AND,OR and XOR
+	 	+ Post/Pre increment & decrement operators
+	 	+ Left and Right shift
+	 	+ Comparison operators
+	 	+ Other special operators
 	- Control statements
-		- if, if/else, if/else-if/else
-		- switch
-		- ternary operator
+		+ if, if/else, if/else-if/else
+		+ switch
+		+ ternary operator
   	- Loops
-  		- for
-  		- while
-  		- do-while
+  		+ for
+  		+ while
+  		+ do-while
   	- Functions
   		+ Definition
   		+ main() function and command line arguments
