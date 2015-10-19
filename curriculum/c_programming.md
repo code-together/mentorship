@@ -6,7 +6,7 @@
 
 ##Curriculum
 
-1. ####Introduction
+1. Introduction
 	- History of C
 	- Advantages and disadvantages of C
 	- C standards
@@ -14,7 +14,7 @@
 	- Using the command line
   	- Installation of compilers(GCC/clang)
   	- Installation of other tools(gdb,valgrind & make)
-2. ####Basic C
+2. Basic C
 	- Hello world and command line input/output
   	- Variables
   		- C89 datatypes
@@ -38,9 +38,9 @@
   		- while
   		- do-while
   	- Functions
-  		- Definition
-  		- main() function and command line arguments
-  		- user defined functions
-  		- return statement
-    		- user defined functions
-    		- return statement
+  		+ Definition
+  		+ main() function and command line arguments
+  		+ user defined functions
+  		+ return statement
+  3. Intermediate C
+  4. Advanced C
