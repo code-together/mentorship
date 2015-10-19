@@ -2,11 +2,11 @@
 
 ##Prerequisites
 
-None
+1. Basic knowledge of Binary Number System and Binary logic.
 
 ##Curriculum
 
-1. Introduction
+1. ####Introduction
 	- History of C
 	- Advantages and disadvantages of C
 	- C standards
@@ -14,7 +14,7 @@ None
 	- Using the command line
   	- Installation of compilers(GCC/clang)
   	- Installation of other tools(gdb,valgrind & make)
-2. Basic C
+2. ####Basic C
 	- Hello world and command line input/output
   	- Variables
   		- C89 datatypes
@@ -40,5 +40,7 @@ None
   	- Functions
   		- Definition
   		- main() function and command line arguments
+  		- user defined functions
+  		- return statement
     		- user defined functions
     		- return statement
