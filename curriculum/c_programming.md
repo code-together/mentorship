@@ -71,6 +71,6 @@
 		+ Advantages and disadvantages
 		+ C multithreading using POSIX threading API
  
-4.Books
-	- C Programming Language (2nd Edition By B. W. Kernighan & D. M. Ritchie)
-	- Linux programmers manual
+##Books
+- Linux programmers manual
+- C Programming Language (2nd Edition By B. W. Kernighan & D. M. Ritchie)
