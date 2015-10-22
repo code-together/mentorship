@@ -16,4 +16,5 @@ Mentors please enter your details in the following table:
 | rhnvrm    | Python/C++| Anytime           | Delhi     | Yes                   |
 | the100rabh    | Python/Java/Android | Anytime           | Bangalore     | Yes                   |
 | nemo      | [Software Development](curriculum/software-development.md) | Weekdays | Bangalore |Yes |
-|            |          |                   |           |                       |
+| solpadjustmadisar | C++ | Anytime | Bangalore | Yes |
+|           |           |                   |           |                       |
