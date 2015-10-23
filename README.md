@@ -10,6 +10,10 @@ We have the following docs available:
 - [Application Guide](apply.md)
 - [Suggested Projects](projects.md)
 
+# Slack
+
+We use Slack for everything. Request an invite from [here](https://site-codetogether.rhcloud.com).
+
 # Idea
 
 This project grew out of the r/india's Weekly Coders & Hackers
