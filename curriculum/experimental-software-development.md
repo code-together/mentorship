@@ -1,6 +1,6 @@
-# Software Development
+# Software Development (Experimental)
 
-**Mentor**: [nemo](mentors-list.md)
+**Mentor(s)**: [nemo](../mentors-list.md)
 
 **Note**: This is an experimental course based on a book that is still being written.
 
@@ -10,7 +10,7 @@ understand Software Development as it is practiced in the industry.
 This is not a course for learning programming. The book I'll follow is [The Joy
 of Software Development][josd] (*Disclaimer*: I'm currently working on the book).
 
-# Things I plan to cover
+## Things I plan to cover
 
 - [Automated Testing](https://josd.captnemo.in/content/tdd.html)
 - Continuous Integration

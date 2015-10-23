@@ -15,6 +15,6 @@ Mentors please enter your details in the following table:
 | sathyabhat| SQL/Python| Anytime           | Bangalore | Yes                   |
 | rhnvrm    | Python/C++| Anytime           | Delhi     | Yes                   |
 | the100rabh    | Python/Java/Android | Anytime           | Bangalore     | Yes                   |
-| nemo      | [Software Development](curriculum/software-development.md) | Weekdays | Bangalore |Yes |
-| frag-o-matic      | [Modern C++](curriculum/experimental_cpp.md) | Tue, Thu, Sat [8-9PM IST] | Bangalore |Yes |
+| nemo      | [Software Development](curriculum/experimental-software-development.md) | Weekdays | Bangalore |Yes |
+| frag-o-matic      | [Modern C++](curriculum/experimental-cpp.md) | Tue, Thu, Sat [8-9PM IST] | Bangalore |Yes |
 |            |          |                   |           |                       |
