@@ -17,7 +17,7 @@ Speaking in broad terms, following aspects of the language will be covered:
 	- Memory and Resource Safety, RAII and `unique_ptr`/`shared_ptr`
 * Features for facilitating Object Oriented Programming
 	- `override` and `final`
-* Standard Library Features: Common Containers & Alogrithms
+* Standard Library Features: Common Containers & Algorithms
 	- `vector`s, `string`s and `map`
 	- `find`, `count`, `sort` and `remove` along with the predicated versions
 * Overview of the older features of the Language: The `C` in `C++`
