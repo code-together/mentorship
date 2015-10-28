@@ -15,4 +15,5 @@ Mentors please enter your details in the following table:
 | sathyabhat| SQL/Python| Anytime           | Bangalore | Yes                   |
 | rhnvrm    | Python/C++| Anytime           | Delhi     | Yes                   |
 | the100rabh    | Python/Java/Android | Anytime           | Bangalore     | Yes                   |
+| hariprasadkulkarni | Python/C/Backend JavaScript | Anytime |  Bangalore | Yes                   |
 |            |          |                   |           |                       |
