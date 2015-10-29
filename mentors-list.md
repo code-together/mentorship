@@ -17,5 +17,5 @@ Mentors please enter your details in the following table:
 | the100rabh    | Python/Java/Android | Anytime           | Bangalore     | Yes                   |
 | nemo      | [Software Development](curriculum/experimental-software-development.md) | Weekdays | Bangalore |Yes |
 | frag-o-matic      | [Modern C++](curriculum/experimental-cpp.md) | Tue, Thu, Sat [8-9PM IST] | Bangalore |Yes |
-| syedatifakhtar      | Java/Scala/Hadoop/Spark | Weekends | Delhi |No   |
+| syedatifakhtar      | Java/Scala/Hadoop/Spark | Weekends | Delhi |Yes   |
 |            |          |                   |           |                       |
