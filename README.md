@@ -10,7 +10,9 @@ We have the following docs available:
 - [Application Guide](apply.md)
 - [Suggested Projects](projects.md)
 
-# Slack
+# Slack 
+
+[![Slack Status](https://site-codetogether.rhcloud.com/badge.svg)](https://site-codetogether.rhcloud.com/) 
 
 We use Slack for everything. Request an invite from [here](https://site-codetogether.rhcloud.com).
 
