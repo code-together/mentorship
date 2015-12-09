@@ -18,7 +18,6 @@ Basics of algorithms and data structures using technical interview like question
 2. Data Structures and Algorithms:
     - [MIT Open courseware](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/)
     - [Stanford Coursera](https://www.coursera.org/course/algo)
-    - [Udemy](https://www.udemy.com/introduction-to-data-structures-algorithms-in-java/)
     - [Learn Java Codeacademy](https://www.codecademy.com/courses/learn-java)
 3. Topics:
     - [Nick Parlante's page](http://cslibrary.stanford.edu/)
