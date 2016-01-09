@@ -59,10 +59,10 @@ Apart from programming language, you can also teach other topics like `algorithm
 
 ## How to teach
 
-The first session to mentee should give him an basic intro. Once it is done, mentee will start learning on his own following the curriculum. You are expected help the mentee whenever he is stuck. 
+The first session to mentee should give them a basic intro. Once it is done, mentee will start learning on their own following the curriculum. You are expected help the mentee whenever they are stuck. 
 
 Whenever required and is appropriate, you should also teach mentee how to Google, [how to ask questions online](http://catb.org/~esr/faqs/smart-questions.html), how to make most of subreddits like /r/learnprogramming and how to use Stackoverflow.
 
-Once he has learnt the basics, guide him through the project. 
+Once they have learnt the basics, guide them through the project. 
 
-Remember, you are not expected to spend more than hour per week. Mentee should do everything, you should only help when he is stuck.
+Remember, you are not expected to spend more than hour per week. Mentee should do everything, you should only help when they are stuck.
