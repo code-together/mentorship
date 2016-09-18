@@ -10,9 +10,9 @@ We have the following docs available:
 - [Application Guide](apply.md)
 - [Suggested Projects](projects.md)
 
-# Slack
+# Slack 
 
-We use Slack for everything. Request an invite from [here](https://site-codetogether.rhcloud.com).
+We use Slack for everything. Request an invite from [here](https://slackipy-codetogether.rhcloud.com).
 
 # Idea
 
