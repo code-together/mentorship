@@ -12,7 +12,7 @@ We have the following docs available:
 
 # Slack 
 
-We use Slack for everything. Request an invite from [here](https://slackipy-codetogether.rhcloud.com).
+We use Slack for everything. Request an invite from [here](http://slack.devup.in).
 
 # Idea
 
