@@ -16,6 +16,16 @@ You will build a ticket booking app. It will have tickets for events/movies/show
 - When a ticket is available for the event the user wants he will have to answer certain questions to finish the booking
 - Payment will be handled via credits in the user's account
 
+###### Details:
+- It will accept endless commands, i.e. I start the app, and see a menu. Through the menu I can either select "showing soon", "showing soon by genre", "showing soon by type", search.
+- When I select the first three options, I see table formatted output, and I can type next to go to the next page, or book using an event number/id
+- So on the listing page two I can say "book 3", or "book <event id>"
+- It then takes me into a booking view, where it asks me questions like number of seats, name of one person attending
+and then shows me a booking confirmation view that I have to confirm/reject.
+- A view where I can see my credits (everyone starts with a random number between 500 - 5000), each event between a number 150-300
+like movies are 250, plays 300, music even 150
+- In the search view I'm shown a help message describing keywords. For example "cost:200 genre:comedy type:movie" will show me all comedy movies that cost less than 200.
+
 #### Phase 2 - ncurses app:
 - All the above features
 - Uses the ncurses library to create a basic gui
