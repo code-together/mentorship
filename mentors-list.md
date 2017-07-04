@@ -19,4 +19,5 @@ Mentors please enter your details in the following table:
 | frag-o-matic      | [Modern C++](curriculum/experimental-cpp.md) | Tue, Thu, Sat [8-9PM IST] | Bangalore |Yes |
 | hiemanshu | [Learning to build](curriculum/learning-to-build.md) | Anytime | Bangalore | Yes |
 | codeOfRobin | [Swift](curriculum/swift.md) | Anytime | Delhi/NCR | Yes |
+|[Khushal Sharma](https://github.com/Logan1x)| Python |  Anytime  |  Udaipur  |  Yes  |
 |            |          |                   |           |                       |
