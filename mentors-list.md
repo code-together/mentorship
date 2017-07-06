@@ -20,3 +20,4 @@ Mentors please enter your details in the following table:
 | hiemanshu | [Learning to build](curriculum/learning-to-build.md) | Anytime | Bangalore | Yes |
 | codeOfRobin | [Swift](curriculum/swift.md) | Anytime | Delhi/NCR | Yes |
 | raincrash     | Python        |     Anytime              |   Bangalore        |        Yes               |
+| blackbess     | Modern C++/ Javascript        |     Anytime              |   Bangalore        |        Yes               |
