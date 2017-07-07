@@ -13,7 +13,7 @@ Mentors please enter your details in the following table:
 | avinassh  | Python    | Anytime           | Bangalore | No                   |
 | anirudhvarma12         |  Java         |  Anytime(except fridays)                 | Delhi          | yes                     |
 | sathyabhat| SQL/Python| Anytime           | Bangalore | Yes                   |
-| rhnvrm    | [Javascript](curriculum/experimental-js.md)| Sat-Sun           | Delhi     | Yes                   |
+| rhnvrm    | [Javascript](curriculum/experimental-js.md)| Sat-Sun           | Delhi     | No                   |
 | the100rabh    | Python/Java/Android | Anytime           | Bangalore     | Yes                   |
 | nemo      | [Software Development](curriculum/experimental-software-development.md) | Weekdays | Bangalore |Yes |
 | frag-o-matic      | [Modern C++](curriculum/experimental-cpp.md) | Tue, Thu, Sat [8-9PM IST] | Bangalore |Yes |
